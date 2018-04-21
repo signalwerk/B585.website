@@ -20,3 +20,4 @@ travis/.ssh/id_rsa
 /src/pages/404.js
 /src/pages/styleguide
 /package-lock.json
+travis/.ssh/id_rsa
