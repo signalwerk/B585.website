@@ -1,3 +1,3 @@
 module.exports = {
-  pathPrefix: '/doc-starter'
+  pathPrefix: '/B585.website'
 }
