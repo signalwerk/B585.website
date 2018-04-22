@@ -13,13 +13,13 @@ cp "${ROOT_DIR}/gatsby-ssr.js" "${DEST_DIR}"
 
 cp "${ROOT_DIR}/package.json" "${DEST_DIR}"
 
-cp -r "${ROOT_DIR}/src/components/ColumnContainer" "${DEST_DIR}/src/components/"
-cp -r "${ROOT_DIR}/src/components/Header" "${DEST_DIR}/src/components/"
-cp -r "${ROOT_DIR}/src/layouts" "${DEST_DIR}/src/"
-cp -r "${ROOT_DIR}/src/shared" "${DEST_DIR}/src/"
-cp -r "${ROOT_DIR}/src/templates" "${DEST_DIR}/src/"
+cp -rf "${ROOT_DIR}/src/components/ColumnContainer" "${DEST_DIR}/src/components/"
+cp -rf "${ROOT_DIR}/src/components/Header" "${DEST_DIR}/src/components/"
+cp -rf "${ROOT_DIR}/src/layouts" "${DEST_DIR}/src/"
+cp -rf "${ROOT_DIR}/src/shared" "${DEST_DIR}/src/"
+cp -rf "${ROOT_DIR}/src/templates" "${DEST_DIR}/src/"
 
-cp -r "${ROOT_DIR}/src/pages/styleguide" "${DEST_DIR}/src/pages/"
-cp -r "${ROOT_DIR}/src/pages/404.js" "${DEST_DIR}/src/pages/"
+cp -rf "${ROOT_DIR}/src/pages/styleguide" "${DEST_DIR}/src/pages/"
+cp -rf "${ROOT_DIR}/src/pages/404.js" "${DEST_DIR}/src/pages/"
 
 echo "-- end – gatsby installer"
