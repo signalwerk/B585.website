@@ -68,32 +68,23 @@ Ein Atelierplatz kostet CHF 400.–
 ### Wir
 Wir sind Designer, Grafiker/innen, Malerinnen, Fotografen und Architekt/innen.
 * [Luca Eusebio – Studio Eusebio](http://studioeusebio.com/)
-
-
-
-
-
-
-
+* [Beda Schmid](http://bedaschmid.ch/)
+* [Beat Jäggli Architekt](http://www.bjae.ch/)
+* [Stefan Huber – Signalwerk](http://signalwerk.ch/)
+* [Annegreth Schärli – Gut & Schön](http://www.gutundschoen.ch/)
 
 ### Raum
-
 ![Atelier Badenerstrasse 585](./img/Color/atelier585color_8.tif)
 
-
 ### Sitzungszimmer
-
 ![Atelier Badenerstrasse 585](./img/Color/atelier585color_1.tif)
 
 <br>
 
 ![Atelier Badenerstrasse 585](./img/Color/atelier585color_4.tif)
 
-
 ### Küche
 ![Atelier Badenerstrasse 585](./img/Color/atelier585color_3.tif)
-
-
 
 
 <!--
